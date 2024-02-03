@@ -14,11 +14,11 @@ It is recommended to apply the plugin in files without preexisting load patterns
 
 1. Change the data to your liking.
 
-<img src="img/2.png" height="250px" alt="Preview Image">
+   <img src="img/2.png" height="250px" alt="Preview Image">
 
 2. Click on **Add Load Patterns And Combinations** button.
 
-<img src="img/3.png" height="250px" alt="Preview Image">
+   <img src="img/3.png" height="250px" alt="Preview Image">
 
 3. Load Patterns and Combination will be added accordingly.
 
