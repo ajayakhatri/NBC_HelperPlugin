@@ -2,9 +2,11 @@
 
 ETABS Plugin Based on NBC 105:2020 for Load Patterns and Combinations Definition
 
-<a href=" https://youtu.be/fxL4WN_YIY4 " target="_blank" rel="noreferrer"> 
+
+<a href="https://youtu.be/fxL4WN_YIY4" target="_blank" rel="noreferrer"> 
 Demo Video📺: https://youtu.be/fxL4WN_YIY4 
 </a>
+
 
 ## Description🧾
 
