@@ -2,6 +2,10 @@
 
 ETABS Plugin Based on NBC 105:2020 for Load Patterns and Combinations Definition
 
+<a href=" https://youtu.be/fxL4WN_YIY4 " target="_blank" rel="noreferrer"> 
+Demo Video📺: https://youtu.be/fxL4WN_YIY4 
+</a>
+
 ## Description🧾
 
 This plugin "NBC_HelperPlugin V1.0" is designed to streamline the early stages of Load Pattern and Load Combination definition, making the process more efficient. Following the guidelines outlined in Nepal National Building Code NBC 105:2020 for Seismic Design of Buildings in Nepal, the plugin calculates Base Shear Coefficients and Building Exponent required during seismic load definition. Additionally, it automatically adds essential load patterns and combinations in accordance with the NBC code.
