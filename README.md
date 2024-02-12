@@ -30,6 +30,10 @@ It is recommended to apply the plugin in files without preexisting load patterns
 
    <img src="img/5.png" width="350px" alt="Preview Image">
 
+4. Generate table for Base Shear Coefficient Calculation.
+
+   <img src="img/gif1.gif" alt="Preview Image">
+
 ## Disclaimer ⚠️
 
 The Plugin is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the developer be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
