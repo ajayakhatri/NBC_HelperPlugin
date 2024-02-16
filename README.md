@@ -2,6 +2,8 @@
 
 ETABS Plugin Based on NBC 105:2020 for Load Patterns and Combinations Definition
 
+Download: [https://github.com/ajayakhatri/NBC_HelperPlugin/archive/refs/heads/main.zip](https://github.com/ajayakhatri/NBC_HelperPlugin/archive/refs/heads/main.zip)
+
 Demo Video📺: [https://youtu.be/fxL4WN_YIY4](https://youtu.be/fxL4WN_YIY4)
 
 
